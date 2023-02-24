@@ -1,7 +1,7 @@
 ## ⚡ 简介
 
-个人搭建的基于 vue2.x、vue-cli、vuex、axios、vue-router、element-ui 和 node、express、mongoDB 等主流技术的全栈博客项目。
-PS：这是一个已经上线的全栈博客项目，前端部分原计划做成响应式效果，目前上线的部分是 PC 端，响应式仍在开发中。整个项目分为两期来做，一期做后台管理中心，二期来做前端平台。
+个人搭建的基于 vue2.x、vue-cli、vuex、axios、vue-router、element-ui 和 node、express、mongoDB 等主流技术的全栈博客项目。</br>
+PS：前端部分原计划做成响应式效果，目前上线的部分是 PC 端，响应式仍在开发中。整个项目分为两期来做，一期做后台管理中心，二期来做前端平台。
 
 ## ✨ 功能模块
 
