@@ -1,7 +1,3 @@
-<div align="center">
-  <h1>Personal-Blog</h1>
-</div>
-
 ## ⚡ 简介
 
 个人搭建的基于 vue2.x、vue-cli、vuex、axios、vue-router、element-ui 和 node、express、mongoDB 等主流技术的全栈博客项目。
