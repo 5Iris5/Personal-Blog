@@ -9,6 +9,7 @@
 - 地址: [Personal-Blog](https://github.com/5Iris5/Personal-Blog)
 
 ## 🚀 开发前端部分
+
 ```
 # install dependencies
 npm install
@@ -21,8 +22,14 @@ npm run build
 ```
 
 ## 🚀 开发后端部分
+
 ```
 # node
 npm install
 node server/bin/www
 ```
+
+## 📄 License
+
+[MIT](./LICENSE)
+Copyright (c) 2020 [IrisLong](https://github.com/5Iris5)
