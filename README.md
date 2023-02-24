@@ -6,7 +6,8 @@
 
 个人搭建的基于 Vue3、TypeScript、Element Plus、Pinia 和 Vite 等主流技术的全栈博客项目。
 
-- 地址: [vue3-admin-vite](https://github.com/5Iris5/vue3-admin-vite)
+- 地址: [Personal-Blog](https://github.com/5Iris5/Personal-Blog)
+
 ##### 前端
 ```
 # install dependencies
